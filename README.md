@@ -17,19 +17,19 @@ All of the files below are the newest version.
 
 ## Please click the links below to download the iso files
 
-#### Adobe Photoshop CC 2021 - v21.0.8 [Pre-Activated][2.2 GB] [Updated: 1. November 2020] http://gg.gg/mu0ca
+#### Adobe Photoshop CC 2021 - v21.0.8 [Pre-Activated][2.2 GB] [Updated: 1. November 2020] http://gg.gg/Ph0t0sh0p
 
 #### Adobe Animate CC 2020 - v19.2 [Pre-Activated][1.8 GB] http://gg.gg/lzcd9
 
-#### Adobe Illustrator CC 2020 - v23.0.3 [Pre-Activated][1.8 GB] http://gg.gg/mnprn
+#### Adobe Illustrator CC 2020 - v23.0.3 [Pre-Activated][1.8 GB] http://gg.gg/Illustratur
 
-#### Adobe Premiere Pro CC 2020 - v14.1.6[Pre-Activated][1.7 GB] [Updated: 2. November 2020] http://gg.gg/mu723
+#### Adobe Premiere Pro CC 2020 - v14.1.6[Pre-Activated][1.7 GB] [Updated: 2. November 2020] http://gg.gg/Pr3mi3r3
 
-#### Adobe Media Encoder: CC 2020 - v8.3 http://bit.ly/2OWXoSs
+#### Adobe Media Encoder: CC 2020 - v8.3 http://gg.gg/M3dia
 
-#### Adobe Photoshop Lightroom Classic CC 2020 - v8.3 [Pre-Activated][1.2GB] http://gg.gg/mnprh
+#### Adobe Photoshop Lightroom Classic CC 2020 - v8.3 [Pre-Activated][1.2GB] http://gg.gg/Li9htroom
 
-#### Adobe After Effects CC 2020 - v16.1.1 [Pre-Activated][2.4 GB] [Updated: 2. November 2020] http://gg.gg/mu8jd
+#### Adobe After Effects CC 2020 - v16.1.1 [Pre-Activated][2.4 GB] [Updated: 2. November 2020] http://gg.gg/Aft3r3ffects
 
 #### Adobe InDesign CC 2020 - v14.0.2 [Pre-Activated][862 MB] http://gg.gg/mnprv
 
@@ -37,13 +37,15 @@ All of the files below are the newest version.
 
 #### Adobe Dimension CC 2020 - v2.2.1 [Pre-Activated][1.3 GB] http://gg.gg/lzcji
 
-#### Adobe Audition CC 2020 - v12.1 [Pre-Activated][538 MB] http://bit.ly/2IkdQuW
+#### Adobe Audition CC 2020 - v12.1 [Pre-Activated][538 MB] http://gg.gg/Aodition
 
 #### Adobe Dreamweaver CC 2020 - v19.1 [Pre-Activated][952 MB] http://gg.gg/mnps5
 
 #### Adobe Character Animator CC 2020 - v2.1 [Pre-Activated][1.1 GB] http://bit.ly/2UEeU3o
 
 #### Adobe Prelude CC 2020 - v8.1 [Pre-Activated][645 MB] http://bit.ly/2IlNRn4
+
+#### Adobe Premiere Rush CC - v1.5.40[Pre-Activated][856 MB] http://gg.gg/Premiere-Rush
 
 Adobe Fresco, Acrobat, and some other tools are unavailable as of now.
 
